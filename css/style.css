@@ -1,0 +1,36 @@
+.carousel {
+    height: 500px;
+}
+.carousel-inner img {
+    height: 500px;
+}
+.conteiner2{
+    width: 50%;
+    padding-left: 150px;
+}
+.conteiner3{
+    width: 25%;
+    margin-left: 30px;
+}
+.itrun{
+    display: flex;
+}
+.footer{
+    color: white;
+    background-color: #24262b;
+}
+.footer-col{
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 100px;
+    
+}
+.footer-col ul li{
+    list-style: none;
+}
+.footer-col ul li a{
+    text-decoration: none;
+}
+.footer-col ul li:hover  {
+    text-decoration: underline;
+}
